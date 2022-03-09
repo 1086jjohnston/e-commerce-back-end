@@ -1,3 +1,4 @@
 # e-commerce-back-end
 
-[![Watch the video](https://img.youtube.com/vi/Bp4ctwUhpww)](https://youtu.be/Bp4ctwUhpww)
+[![Watch Youtube walkthrough here](https://img.youtube.com/vi/Bp4ctwUhpww/0.jpg)](https://www.youtube.com/watch?v=Bp4ctwUhpww)
+
